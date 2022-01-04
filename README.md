@@ -1,5 +1,5 @@
 ## 👋
-![](https://i.imgur.com/CFWcjdw.png)
+![](https://i.imgur.com/D2nXUQc.png)
 ###### > created by [@cupcalico](https://twitter.com/cupcalico) :D
 
 
