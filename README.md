@@ -1,5 +1,6 @@
 ## 👋
 ![](https://checkra.in/img/icon.png)
+
 hi. i'm rocket. i'm a programmer primarily working on [JesusAI](https://github.com/JesusAIexperience/JesusAI).
 check me out at the links below:
 
