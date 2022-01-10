@@ -8,6 +8,6 @@ check me out at the links below:
 
 #### social media
 
- - [personal website](https://schneerocket.github.io)
+ - [personal website](https://drezmor.github.io)
  - [discord](https://discord.gg/xz8YM9ucBT)
  - [instagram](https://instagram.com/DREZM0R)
