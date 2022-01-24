@@ -10,4 +10,4 @@ check me out at the links below:
 
  - [personal website](https://drezmor.github.io)
  - [discord](https://discord.gg/xz8YM9ucBT)
- - [instagram](https://instagram.com/DREZM0R)
+ - [twitter](https://twitter.com/DREZM0R)
