@@ -1,12 +1,12 @@
 ## 👋
 
-hi. i'm RAKNET. 
+hi. i'm meowfluff. i also go by soups. 
 
 i'm a programmer primarily working on [JesusAI](https://github.com/JesusAIexperience/JesusAI)
-and [Unix Epoch](https://github.com/RAAKNET/Unix-Epoch). 
+and [Unix Epoch](https://github.com/meowfluff/Unix-Epoch). 
 check me out at the links below:
 
 #### social media
 
- - [personal website](https://raaknet.github.io)
- - [twitter](https://twitter.com/DREZM0R)
+ - [personal website](https://meowfluff.github.io)
+ - [twitter](https://twitter.com/meowfIuff)
