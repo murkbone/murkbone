@@ -3,7 +3,7 @@
 hi. i'm tobi. i also go by meowfluff. 
 
 i'm a programmer primarily working on [JesusAI](https://github.com/JesusAIexperience/JesusAI)
-and [Make a SPECIL Valentine](https://github.com/meowfluff/Make-A-SPECIL-Valentine). 
+and [Cortisol](https://github.com/meowfluff/Cortisol). 
 check me out at the links below:
 
 #### social media
