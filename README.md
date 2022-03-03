@@ -1,10 +1,10 @@
-## 👋
+## 💞
 
 hi. i'm ritz.
 
-i'm a programmer primarily working on [JesusAI](https://github.com/JesusAIexperience/JesusAI)
-and [Auxilium](https://github.com/meowfluff/Auxilium). 
-check me out at the links below:
+i'm a programmer primarily working on [Auxilium](https://github.com/meowfluff/Auxilium). 
+it's a free-to-play game on windows and it's not that storage intense. check it out if you want.
+i reside here:
 
 #### social media
 
