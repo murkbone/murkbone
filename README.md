@@ -9,6 +9,5 @@ it's a free-to-play game on windows and it's not that storage intense. check it 
 i reside here:
 
 #### social media
-
  - [personal website](https://meowfluff.github.io)
  - [twitter](https://twitter.com/meowfIuff)
