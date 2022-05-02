@@ -4,9 +4,9 @@ hi. i'm ritz.
 
 i'm a programmer primarily working on [Auxilium](https://github.com/enfier/Auxilium). 
 
-it's a free-to-play game on windows and it's not that storage intense. check it out if you want.
+progress for everything is slow right now, studying 4 exams and stuff.
 
-i reside here:
+here are my corners of the internet:
 
 #### social media
  - [personal website](https://enfier.github.io)
