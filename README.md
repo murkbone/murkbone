@@ -10,4 +10,4 @@ here are my corners of the internet:
 
 #### social media
  - [personal website](https://enfier.github.io)
- - [twitter](https://twitter.com/_enfier)
+ - [twitter](https://twitter.com/enfierjp)
