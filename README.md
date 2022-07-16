@@ -10,4 +10,4 @@ here are my creature-infested areas of the internet:
 
 #### social media
  - [personal website](https://murkbone.github.io)
- - [twitter](https://twitter.com/pyrovinyl)
+ - [twitter](https://twitter.com/pyrozumai)
